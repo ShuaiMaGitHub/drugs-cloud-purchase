@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e0e34c9-b9c2-477a-962c-8f20c89a6247" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="165" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="222fmuNKuV2PDyDkRpLVeAnN87l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/drugs-cloud-purchase-order/src/main/java/com/ms/order/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drugs-cloud-purchase-order/src/main/java/com/ms/order/pojo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36308807" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ms.search.client" />
+      <recent name="com.ms.upload.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ms.user.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ms.common.utils" />
+      <recent name="com.ms.cart.config" />
+      <recent name="com.ms.common.enums" />
+      <recent name="com.ms.common" />
+      <recent name="com.ms.upload.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BiShe\drugs-cloud-purchase\drugs-cloud-purchase-order\src\main\java\com\ms\order\pojo" />
+      <recent name="F:\BiShe\drugs-cloud-purchase\drugs-cloud-purchase-order\src\main\java\com\ms\utils" />
+      <recent name="F:\BiShe\drugs-cloud-purchase\drugs-cloud-purchase-order\src\main\java\com\ms\config" />
+      <recent name="F:\BiShe\drugs-cloud-purchase\drugs-cloud-purchase-auth\drugs-cloud-purchase-auth-common\src\main\java\com.ms.auth" />
+      <recent name="F:\BiShe\drugs-cloud-purchase\drugs-cloud-purchase-goods-web\src\main\java\com\ms\goods\client" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8081/spec/group" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplicaton">
+    <configuration name="ElasticsearchTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugs-cloud-purchase-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.elasticsearch.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.elasticsearch.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.elasticsearch.test.ElasticsearchTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugs-cloud-purchase-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.user.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.user.test.RedisTest" />
+      <option name="METHOD_NAME" value="testHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugs-cloud-purchase-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.user.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.user.test.RedisTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testRedis2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugs-cloud-purchase-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.user.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.user.test.RedisTest" />
+      <option name="METHOD_NAME" value="testRedis2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.AuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.CartApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.GoodsWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="drugs-cloud-purchase-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.ItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplicaton" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.RegistyApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.SearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.UploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="drugs-cloud-purchase-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.user.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticsearchTest.test" />
+      <item itemvalue="JUnit.RedisTest.testRedis" />
+      <item itemvalue="JUnit.RedisTest.testRedis2" />
+      <item itemvalue="JUnit.RedisTest.testHash" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.OrderApplicaton" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.RegistyApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.UploadApplication" />
+      <item itemvalue="Spring Boot.GoodsWebApplication" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ItemApplication" />
+        <item itemvalue="JUnit.RedisTest.testHash" />
+        <item itemvalue="JUnit.RedisTest.testRedis2" />
+        <item itemvalue="JUnit.RedisTest.testRedis" />
+        <item itemvalue="JUnit.ElasticsearchTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23498233" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0e34c9-b9c2-477a-962c-8f20c89a6247" name="Default Changelist" comment="" />
+      <created>1639040765030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639040765030</updated>
+      <workItem from="1639040767640" duration="773000" />
+      <workItem from="1639099374532" duration="14141000" />
+      <workItem from="1639359098714" duration="1848000" />
+      <workItem from="1639380262991" duration="8360000" />
+      <workItem from="1639444044239" duration="664000" />
+      <workItem from="1639445376288" duration="13381000" />
+      <workItem from="1639530368259" duration="16735000" />
+      <workItem from="1639617135949" duration="3352000" />
+      <workItem from="1639633435526" duration="12113000" />
+      <workItem from="1639703832969" duration="19441000" />
+      <workItem from="1639731812578" duration="1392000" />
+      <workItem from="1639962613565" duration="23256000" />
+      <workItem from="1640050620670" duration="698000" />
+      <workItem from="1640136061559" duration="1944000" />
+      <workItem from="1640582774167" duration="3376000" />
+      <workItem from="1640594735587" duration="4407000" />
+      <workItem from="1640654660267" duration="21448000" />
+      <workItem from="1640778739758" duration="2084000" />
+      <workItem from="1641130383377" duration="821000" />
+      <workItem from="1641368726817" duration="1556000" />
+      <workItem from="1641543933374" duration="5627000" />
+      <workItem from="1641777942486" duration="1608000" />
+      <workItem from="1641795942415" duration="7067000" />
+      <workItem from="1641864780332" duration="5586000" />
+      <workItem from="1641895368292" duration="70000" />
+      <workItem from="1641950524037" duration="3136000" />
+      <workItem from="1642036768723" duration="4282000" />
+      <workItem from="1642122713336" duration="15879000" />
+      <workItem from="1642400431591" duration="12528000" />
+      <workItem from="1642468241738" duration="15132000" />
+      <workItem from="1642554679034" duration="13582000" />
+      <workItem from="1642641840904" duration="7192000" />
+      <workItem from="1642649450527" duration="1838000" />
+      <workItem from="1642670400368" duration="2487000" />
+      <workItem from="1642989400090" duration="4844000" />
+      <workItem from="1644805362623" duration="1495000" />
+      <workItem from="1644827689940" duration="2789000" />
+      <workItem from="1645776739023" duration="6217000" />
+      <workItem from="1646011320034" duration="2493000" />
+      <workItem from="1646034388624" duration="27000" />
+      <workItem from="1646037516307" duration="2925000" />
+      <workItem from="1646185027584" duration="1271000" />
+      <workItem from="1646643570748" duration="5379000" />
+      <workItem from="1646704901499" duration="7225000" />
+      <workItem from="1646894632222" duration="3509000" />
+      <workItem from="1646898493002" duration="3841000" />
+      <workItem from="1646903199606" duration="283000" />
+      <workItem from="1646903491225" duration="2531000" />
+      <workItem from="1646906104269" duration="624000" />
+      <workItem from="1646961244546" duration="158000" />
+      <workItem from="1646979518836" duration="1751000" />
+      <workItem from="1646986827014" duration="13000" />
+      <workItem from="1646992468795" duration="56000" />
+      <workItem from="1647050608159" duration="2558000" />
+      <workItem from="1647053419690" duration="8179000" />
+      <workItem from="1647142603891" duration="3400000" />
+      <workItem from="1647306983588" duration="49000" />
+      <workItem from="1647394253423" duration="2114000" />
+      <workItem from="1647408562082" duration="1028000" />
+      <workItem from="1647431044728" duration="1138000" />
+      <workItem from="1647485165121" duration="16212000" />
+      <workItem from="1647589276426" duration="99000" />
+      <workItem from="1647654187616" duration="8177000" />
+      <workItem from="1647746404874" duration="14822000" />
+      <workItem from="1648215342031" duration="145000" />
+      <workItem from="1648286370486" duration="3199000" />
+      <workItem from="1648729843472" duration="1221000" />
+      <workItem from="1649575406718" duration="1193000" />
+      <workItem from="1649676809510" duration="7379000" />
+      <workItem from="1649726218996" duration="779000" />
+      <workItem from="1649751918932" duration="8622000" />
+      <workItem from="1649812744430" duration="81000" />
+      <workItem from="1649828775207" duration="6311000" />
+      <workItem from="1649940410276" duration="5075000" />
+      <workItem from="1650024618678" duration="2122000" />
+      <workItem from="1650081888162" duration="13618000" />
+      <workItem from="1650117145997" duration="3475000" />
+      <workItem from="1650120654316" duration="4209000" />
+      <workItem from="1650165475348" duration="4287000" />
+      <workItem from="1650782360906" duration="69000" />
+      <workItem from="1651051091904" duration="2041000" />
+      <workItem from="1651137304592" duration="1131000" />
+      <workItem from="1651476838711" duration="7816000" />
+      <workItem from="1651824479008" duration="657000" />
+      <workItem from="1651885411037" duration="7481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1647767278592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1647767278592" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1651903966297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1651903966297" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650120897573">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1650120897573" />
+    <state x="765" y="27" key="#com.intellij.ide.util.MemberChooser" timestamp="1650119973446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="27" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1650119973446" />
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1650120895198">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1650120895198" />
+    <state x="197" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1650118544003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1650118544003" />
+    <state x="619" y="46" key="FileChooserDialogImpl" timestamp="1650117339909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="619" y="46" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650117339909" />
+    <state width="923" height="281" key="GridCell.Tab.0.bottom" timestamp="1651912383604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651912383604" />
+    <state width="923" height="281" key="GridCell.Tab.0.center" timestamp="1651912383604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1651912383604" />
+    <state width="923" height="281" key="GridCell.Tab.0.left" timestamp="1651912383604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1651912383604" />
+    <state width="923" height="281" key="GridCell.Tab.0.right" timestamp="1651912383604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1651912383604" />
+    <state width="923" height="281" key="GridCell.Tab.1.bottom" timestamp="1651912383605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651912383605" />
+    <state width="923" height="281" key="GridCell.Tab.1.center" timestamp="1651912383605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1651912383605" />
+    <state width="923" height="281" key="GridCell.Tab.1.left" timestamp="1651912383605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1651912383605" />
+    <state width="923" height="281" key="GridCell.Tab.1.right" timestamp="1651912383605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="281" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1651912383605" />
+    <state width="923" height="274" key="GridCell.Tab.2.bottom" timestamp="1651888948451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="274" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651888948451" />
+    <state width="923" height="274" key="GridCell.Tab.2.center" timestamp="1651888948451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="274" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1651888948451" />
+    <state width="923" height="274" key="GridCell.Tab.2.left" timestamp="1651888948450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="274" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1651888948450" />
+    <state width="923" height="274" key="GridCell.Tab.2.right" timestamp="1651888948451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="923" height="274" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1651888948451" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1650118943340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1650118943340" />
+    <state x="253" y="0" width="990" height="680" key="SettingsEditor" timestamp="1650120601529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="253" y="0" width="990" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1650120601529" />
+    <state x="439" y="118" key="chooseDestDirectoryDialog" timestamp="1650118915474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1650118915474" />
+    <state x="642" y="51" key="com.intellij.ide.util.TipDialog" timestamp="1650117177528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="642" y="51" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1650117177528" />
+    <state x="246" y="49" width="778" height="534" key="find.popup" timestamp="1651904224494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="246" y="49" width="778" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1651904224494" />
+    <state x="361" y="112" width="919" height="475" key="new project wizard" timestamp="1650117525185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="112" width="919" height="475" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1650117525185" />
+    <state x="617" y="154" width="672" height="677" key="run.anything.popup" timestamp="1646906356726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="617" y="154" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1646906356726" />
+    <state x="453" y="76" width="672" height="678" key="search.everywhere.popup" timestamp="1650782372678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="76" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1650782372678" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drugs_cloud_purchase$ElasticsearchTest_test.ic" NAME="ElasticsearchTest.test Coverage Results" MODIFIED="1650083567671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ms.elasticsearch.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>

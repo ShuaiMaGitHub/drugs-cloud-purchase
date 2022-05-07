@@ -1,0 +1,21 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: user-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/drugs_cloud_purchase?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai #   leyou   drugs_cloud_purchase
+    username: root
+    password: root
+  redis:
+    host: 127.0.0.1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-expiration-duration-in-seconds: 15
+    lease-renewal-interval-in-seconds: 5
+mybatis:
+  type-aliases-package: com.ms.user.pojo

@@ -1,0 +1,37 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: gateway-service
+#  cloud:
+#    nacos:
+#      server-addr: localhost:8848
+eureka:
+  client:
+    service-url:
+     defaultZone: http://localhost:10086/eureka
+    registry-fetch-interval-seconds: 5
+zuul:
+  prefix: /api
+  routes:
+    item-service: /item/** #路由到商品的微服务
+    search-service: /search/** #路由到搜索的微服务
+    user-service: /user/** #路由到用户的微服务
+    auth-service: /auth/** #路由到注册的微服务
+    cart-service: /cart/** #路由到购物车的微服务
+    order-service: /order/**  # 路由到订单微服务
+  add-host-header: true   # 携带请求本身的head头信息
+  sensitive-headers:      # 覆盖敏感头信息，配置禁止使用的头信息，这里设置为null,否则set-cookie无效
+
+ly:
+  jwt:
+    pubKeyPath: F:\\BiShe\\tmp\\rsa\\rsa.pub # 公钥地址
+    cookieName: LY_TOKEN
+  filter:
+    allowPaths: # 下面服务为白名单，不拦截
+      - /api/auth
+      - /api/search
+      - /api/user/register
+      - /api/user/check
+      - /api/user/code
+      - /api/item

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="drugs-cloud-purchase-item-service" />
+        <module name="drugs-cloud-purchase-auth-service" />
+        <module name="drugs-cloud-purchase-gateway" />
+        <module name="drugs-cloud-purchase-order" />
+        <module name="drugs-cloud-purchase-common" />
+        <module name="test" />
+        <module name="drugs-cloud-purchase-upload" />
+        <module name="drugs-cloud-purchase-auth-common" />
+        <module name="drugs-cloud-purchase-search" />
+        <module name="drugs-cloud-purchase-registry" />
+        <module name="drugs-cloud-purchase-item-interface" />
+        <module name="drugs-cloud-purchase-user-interface" />
+        <module name="drugs-cloud-purchase-user-service" />
+        <module name="drugs-cloud-purchase-goods-web" />
+        <module name="drugs-cloud-purchase-cart" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="drugs-cloud-purchase" options="-parameters" />
+      <module name="drugs-cloud-purchase-auth-common" options="-parameters" />
+      <module name="drugs-cloud-purchase-auth-service" options="-parameters" />
+      <module name="drugs-cloud-purchase-cart" options="-parameters" />
+      <module name="drugs-cloud-purchase-common" options="-parameters" />
+      <module name="drugs-cloud-purchase-gateway" options="-parameters" />
+      <module name="drugs-cloud-purchase-goods-web" options="-parameters" />
+      <module name="drugs-cloud-purchase-item-interface" options="-parameters" />
+      <module name="drugs-cloud-purchase-item-service" options="-parameters" />
+      <module name="drugs-cloud-purchase-order" options="-parameters" />
+      <module name="drugs-cloud-purchase-registry" options="-parameters" />
+      <module name="drugs-cloud-purchase-search" options="-parameters" />
+      <module name="drugs-cloud-purchase-upload" options="-parameters" />
+      <module name="drugs-cloud-purchase-user-interface" options="-parameters" />
+      <module name="drugs-cloud-purchase-user-service" options="-parameters" />
+      <module name="test" options="-parameters" />
+    </option>
+  </component>
+</project>

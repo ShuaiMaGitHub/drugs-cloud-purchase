@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-auth/drugs-cloud-purchase-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-auth/drugs-cloud-purchase-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-item/drugs-cloud-purchase-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-item/drugs-cloud-purchase-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-user/drugs-cloud-purchase-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-user/drugs-cloud-purchase-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drugs-cloud-purchase-user/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
